@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|solutionrelative:scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|C:\\Users\\Ivan\\source\\repos\\drain-mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|solutionrelative:scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|c:\\users\\ivan\\source\\repos\\drain-mainui\\drain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|solutionrelative:drain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|solutionrelative:scripts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|drain-mainui||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|solutionrelative:drain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|solutionrelative:drain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|c:\\users\\ivan\\source\\repos\\drain-mainui\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{94D1349A-C13A-46D9-A320-D6DF56E42BDF}|drain-mainui.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scripts.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.cs",
+              "RelativeDocumentMoniker": "scripts.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.cs",
+              "RelativeToolTip": "scripts.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAEwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:48:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "drain-mainui",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain-mainui.csproj",
+              "RelativeDocumentMoniker": "drain-mainui.csproj",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain-mainui.csproj",
+              "RelativeToolTip": "drain-mainui.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-27T14:00:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "drain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain.cs",
+              "RelativeDocumentMoniker": "drain.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "drain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:58:24.061Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "scripts.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.Designer.cs",
+              "RelativeDocumentMoniker": "scripts.Designer.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.Designer.cs",
+              "RelativeToolTip": "scripts.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:28:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "drain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain.Designer.cs",
+              "RelativeDocumentMoniker": "drain.Designer.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain.Designer.cs",
+              "RelativeToolTip": "drain.Designer.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAD4v+IAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:58:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "drain.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain.cs",
+              "RelativeDocumentMoniker": "drain.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\drain.cs",
+              "RelativeToolTip": "drain.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAnwDQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:04:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:54:14.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scripts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.cs",
+              "RelativeDocumentMoniker": "scripts.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\drain-mainui\\scripts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "scripts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:08:22.077Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
